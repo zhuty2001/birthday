@@ -18,7 +18,7 @@ var config = {
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
      * "对应上面的文字, 要完全一样" : "图片地址, 可以把图片放在imgs文件夹中"
      * 例如
-     * "心爱的小可爱": "./imgs/xiaokeai.jpg"
+     * "心爱的小可爱": "  ./imgs/xiaokeai.jpg"
      *
      * 如果不要图片的话, 直接在每行开头写两个斜杠注释即可, 例如下面的 "今天是你的生日" 的图片就不会展示了:)
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
@@ -47,6 +47,6 @@ var config = {
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
-    }
+        }
     };
 
