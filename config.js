@@ -1,7 +1,6 @@
-// 霸都丶傲天 2019年10月10日 https://github.com/AJLoveChina/birthday
+
 var config = {
-    // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
-    // 每句话尽量不要超过15个字,不然展示效果可能不太好
+    
     texts: [
         "送给我",      
         "无敌可爱美丽温柔的小blue",  
@@ -49,4 +48,5 @@ var config = {
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
     }
+    };
 
