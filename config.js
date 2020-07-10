@@ -25,9 +25,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
-        // "今天是你的生日": "./imgs/birthday.jpg",
-    },
+         "送给我",: "./imgs/xiaokeai.jpg"    
+        "无敌可爱美丽温柔的小blue": "./imgs/xiaokeai.jpg" 
+        "今天是你的十八岁生日！": "./imgs/xiaokeai.jpg"
+        "成年啦！": "./imgs/xiaokeai.jpg"
+        "这是一起过的第二个生日咧": "./imgs/xiaokeai.jpg"
+        "当然以后还要一起过": "./imgs/xiaokeai.jpg"
+        "两百个生日咧": "./imgs/xiaokeai.jpg"
+        "今年要好好吃好好睡": "./imgs/xiaokeai.jpg"
+        "养的白白胖胖圆圆滚滚哈哈": "./imgs/xiaokeai.jpg"
+        "（小声）成年了是不是可以嘿嘿嘿": "./imgs/xiaokeai.jpg"
+        "YAMI~~",
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始",
