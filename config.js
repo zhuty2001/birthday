@@ -25,13 +25,15 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-         "送给我",: "./imgs/xiaokeai.jpg"    
-        "无敌可爱美丽温柔的小blue": "./imgs/xiaokeai.jpg" 
-        "今天是你的十八岁生日！": "./imgs/xiaokeai.jpg"
-        "成年啦！": "./imgs/xiaokeai.jpg"
-        "这是一起过的第二个生日咧": "./imgs/xiaokeai.jpg"
-        "当然以后还要一起过": "./imgs/xiaokeai.jpg"
-        "两百个生日咧": "./imgs/xiaokeai.jpg"
+         "送给我",: "./imgs/IMG_6672(20200226-005140).JPG"    
+        "无敌可爱美丽温柔的小blue": "./imgs/IMG_6137(20200706-020051).JPG
+" 
+        "今天是你的十八岁生日！": "./imgs/IMG_3785(20200522-011649).JPG
+"
+        "成年啦！": "./imgs/IMG_1077(20200705-015520).PNG"
+        "这是一起过的第二个生日咧": "./imgs/IMG_1750(20200702-133638).JPG"
+        "当然以后还要一起过": "./imgs/IMG_1941(20200626-011333).JPG"
+        "两百个生日咧": "./imgs/IMG_6486(20200522-011649).JPG"
         "今年要好好吃好好睡": "./imgs/xiaokeai.jpg"
         "养的白白胖胖圆圆滚滚哈哈": "./imgs/xiaokeai.jpg"
         "（小声）成年了是不是可以嘿嘿嘿": "./imgs/xiaokeai.jpg"
